@@ -1,0 +1,5 @@
+/target/
+.setti*
+.class*
+.project*
+.spring*
